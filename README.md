@@ -21,6 +21,5 @@
 
 - HTML5
 - CSS3
-- JavaScript
 - canvas-nest.js（背景動態效果）
 
